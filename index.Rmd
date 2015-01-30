@@ -266,5 +266,5 @@ else
 * A good collection of other shiny apps, many with the code: [http://www.showmeshiny.com/](http://www.showmeshiny.com/)
 * Search on R-Bloggers: [http://www.r-bloggers.com/?s=shiny](http://www.r-bloggers.com/?s=shiny) 
 
-This presentation was created using slidify and the code for it can be found at: [https://github.com/patilv/INRUG-ShinyFinal](https://github.com/patilv/INRUG-ShinyFinal)
+This presentation was created using slidify and the code for it can be found at: [https://github.com/patilv/INRUG-Shiny](https://github.com/patilv/INRUG-Shiny)
 
